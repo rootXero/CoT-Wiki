@@ -4,6 +4,21 @@ Classes, variables, functions, and macros should all be named in PascalCase.
 
 Folders should be named in ALLCAPS with underscores to separate suffixes.
 
+## Choosing a Name
+
+Naming is important to make the code universally readable among the development team. *Nothing* should be left as a default, and names should be concise but meaningful. This includes everything from classes, to timelines, to functions, to variables. If you create it, name it. 
+
+In general, avoid abbreviations except in circumstances where names are getting out of control, and don't use more than one in a name. Multiple can do more harm than good and make names difficult to decipher.
+
+Accepted Abbreviations:
+
+| Abbreviation | Meaning |
+|------|-----------|
+| Char | Character |
+| Curr | Current   |
+| Mod  | Modifier  |
+| Var  | Variable  |
+
 ## Classes
 
 | Type                    | Naming Scheme                |
@@ -20,21 +35,6 @@ Folders should be named in ALLCAPS with underscores to separate suffixes.
 | Behavior Tree Decorator | [Name]_BT_DEC                |
 | Behavior Tree Task      | [Name]_BT_TASK               |
 | Curve                   | [Name]_CURVE                 |
-
-## Choosing a Name
-
-Naming is important to make the code universally readable among the development team. *Nothing* should be left as a default, and names should be concise but meaningful. This includes everything from classes, to timelines, to functions, to variables. If you create it, name it. 
-
-In general, avoid abbreviations except in circumstances where names are getting out of control, and don't use more than one in a name. Multiple can do more harm than good and make names difficult to decipher.
-
-Accepted Abbreviations:
-
-| Abbreviation | Meaning |
-|------|-----------|
-| Char | Character |
-| Curr | Current   |
-| Mod  | Modifier  |
-| Var  | Variable  |
 
 # In-Engine Documentation
 
