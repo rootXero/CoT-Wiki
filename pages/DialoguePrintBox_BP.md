@@ -1,4 +1,4 @@
-# Useage
+# Usage
 
 This will spawn a box volume, which should be scaled to cover a broad enough area that the player cannot accidentally jump over or walk around them.
 
