@@ -23,7 +23,7 @@ Each page is broken down into sections explaining the purpose, expected behavior
 Before asking the Tech team for help, you are expected to follow a few basic troubleshooting steps that should fix most basic problems:
 
 1. Look up the documentation for the Blueprint you're using, and read through it fully.
-1. Check that *all* variables in SET BEFORE PLAY are assigned, and assigned to valid values/objects. Some Blueprints, like ObjectMoveSwitch_BP, only take certain types of actors. When in doubt, check the tooltips. 
+1. Check that *all* variables in SET BEFORE PLAY are assigned, and assigned to valid values/objects. Some Blueprints, like [ObjectMoveSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectMoveSwitch_BP), only take certain types of actors. When in doubt, check the tooltips. 
 1. Check that any required variables _not_ included in SET BEFORE PLAY (for instance, Static Mesh Components or nav meshes) are properly assigned. The documentation will list where any such variables can be found, and how to set them properly. 
 1. Make sure you don't have an inverted numeric value — many translations or status adjustments require a negative value to lower, and a positive to raise. It's easy to tell a Blueprint to alter your health by five and accidentally give Ammon a health boost when he falls into a pit.  
 
