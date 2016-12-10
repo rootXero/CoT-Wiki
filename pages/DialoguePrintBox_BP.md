@@ -5,8 +5,7 @@ This will spawn a box volume, which should be scaled to cover a broad enough are
 Each dialogue print will only trigger once per play.
 
 # Variables
-
-| Variable |    
+| Name               | Details                                                                                                                                                            |
 |---|---|
 | Dialogue           | The text the chosen character should say in this spot, with punctuation but without quotation marks around it.                                                     |
 | Dialogue Duration  | The number of seconds this dialogue should display on screen for. While this is a slider, you can input numbers beyond the slider values if you need to by typing. |
