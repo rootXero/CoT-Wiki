@@ -1,4 +1,4 @@
-# Useage
+# Usage
 
 Place over the final goal asset, slightly larger than said asset and at least half as tall as Ammon. This will trigger a print statement upon interaction.
 
