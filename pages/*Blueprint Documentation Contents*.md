@@ -40,7 +40,7 @@ The class hierarchy and code is all carefully built to be as efficient and strea
 
 # Finished and Documented Blueprints:
 
-**Note:** The Blueprints listed below are the *only* Blueprints finished and approved for use in CoT. All others are depricated or unfinished, and should not be added into levels moving forward.
+**Note:** The Blueprints listed below are the *only* ones finished and approved for use in CoT. All others are depricated or unfinished, and should not be added into levels moving forward. Blueprints must be approved by the Tech lead before being added to the wiki or game.
 
 >[DialoguePrintBox_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/DialoguePrintBox_BP)  
 [EndLevelTrigger_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/EndLevelTrigger_BP)  
