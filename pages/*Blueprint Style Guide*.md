@@ -49,6 +49,9 @@ Tooltips are especially important for public variables, as they explain to the l
 
 ## Comments
 
+Blocks of code that aren't easily readable, either because of complexity or abstraction, should be placed in a comment box with a descriptive but concise title. The same goes for graphs with multiple events or lots of branching statements. 
+
+Any code that is meant for testing purposes (print statments, etc.) should be in a muted red comment box with a colored bubble labelled "Dev Testing Code" to make it easier to find later when we build the game.
 
 # Organization
 
