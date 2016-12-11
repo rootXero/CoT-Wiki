@@ -62,3 +62,5 @@ If you're reusing a block of code in the same class, it should be made into a [f
 Public variables intended for use by level designers should be grouped into a category titled "SET BEFORE PLAY", in the most logical order. In instances where you wish for the level designer to choose between multiple options, an [enumerator](https://wiki.unrealengine.com/Enums_For_Both_C%2B%2B_and_BP) can be used to create dropdown options.
 
 # Class Hierarchy
+
+Hold up, y'all. I'm gonna need a whiteboard and at least four different Expos for this.
