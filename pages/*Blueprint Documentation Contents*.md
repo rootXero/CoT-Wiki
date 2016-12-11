@@ -40,8 +40,15 @@ The class hierarchy and code is all carefully built to be as efficient and strea
 
 # Finished and Documented Blueprints:
 
+**Note:** The Blueprints listed below are the *only* Blueprints finished and approved for use in CoT. All others are depricated or unfinished, and should not be added into levels moving forward.
+
 >[DialoguePrintBox_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/DialoguePrintBox_BP)  
 [EndLevelTrigger_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/EndLevelTrigger_BP)  
+[HealthTrap_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/HealthTrap_BP)  
 [Killbox_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Killbox_BP)  
+[Ladder_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Ladder_BP)  
 [ObjectMoveSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectMoveSwitch_BP)  
 [ObjectToMove_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectToMove_BP)  
+[PatrolGuard_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/PatrolGuard_BP)  
+[Shrine_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Shrine_BP)  
+[StaticGuard_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/StaticGuard_BP)
