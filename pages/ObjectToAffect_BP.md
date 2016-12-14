@@ -32,8 +32,4 @@ This also requires an [ObjectAffectorSwitch_BP](https://app.deveo.com/collegefor
 
 # In the Future
 
-I'm currently working on implementing the ability to set multiple switches for the same object, all of which must be pressed to activate the object's movement (for use with multi-switch doors, etc.)
-
-I also plan to add the ability to have the object move on direct interaction, switched on and off in the editor with a boolean value. This can be used for elevators or other objects we wish to move without needing to press a dedicated switch.
-
-Additionally, if requested it would be fairly simple to add in the ability to rotate or scale the object as well upon interaction. If this is something that would be useful, let the Tech team know.
+If requested it would be fairly simple to add in the ability to rotate or scale the object as well upon interaction. If this is something that would be useful, let the Tech team know.
