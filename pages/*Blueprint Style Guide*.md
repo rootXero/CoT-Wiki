@@ -59,7 +59,7 @@ All graphs in a Blueprint should be nicely arranged and easy to follow. This mea
 
 If you're reusing a block of code in the same class, it should be made into a [function](https://docs.unrealengine.com/latest/INT/Engine/Blueprints/UserGuide/Functions/) or [macro](https://docs.unrealengine.com/latest/INT/Engine/Blueprints/UserGuide/Macros/) as [applicable](https://forums.unrealengine.com/showthread.php?82023-Function-vs-Macro-What-is-better) for clarity and concision.
 
-Public variables intended for use by level designers should be grouped into a category titled "SET BEFORE PLAY", in the most logical order. In instances where you wish for the level designer to choose between multiple options, an [enumerator](https://wiki.unrealengine.com/Enums_For_Both_C%2B%2B_and_BP) can be used to create dropdown options.
+Public variables intended for use by level designers should be grouped into a category titled "SET BEFORE PLAY", in the most logical order, unless the class is complex enough to require more organizatioin for ease of use. Categories intended for level designer use should be written in ALLCAPS to differentiate them from engine defaults and minimize risk of confusion. In instances where you wish for the level designer to choose between multiple options, an [enumerator](https://wiki.unrealengine.com/Enums_For_Both_C%2B%2B_and_BP) can be used to create dropdown options.
 
 # Class Hierarchy
 
