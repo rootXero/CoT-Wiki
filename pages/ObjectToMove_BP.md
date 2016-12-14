@@ -1,28 +1,35 @@
 # Summary
+*Note: ObjectToMove_BP is going to be renamed ObjectToAffect_BP, but due to a rather untimely guard kicking us out of the building I got interrupted halfway through and didn't get that finished. Anywhere this references that name, just know that it's talking about the same thing.*
 
-ObjectToMove_BP is a flexible Blueprint that has a wide variety of uses. As the name implies, this Blueprint allows an object to be transformed in-game, currently upon a switch press (see *In the Future* section of this article for extended plans).
 
-Examples of things that this Blueprint can be used for are raising platforms, opening doors, and elevators.
+ObjectToAffect_BP is a flexible Blueprint that has a wide variety of uses. As the name implies, this Blueprint allows an object to be affected in a variety of ways in-game, either by interacting with another object or directly with it.
+
+Examples of things that this Blueprint can be used for are raising platforms, opening doors, elevators, beacon-affected walls and doors, etc.
 
 # Usage
 
-Drop into the location of the asset you’d like to move. In the Details panel, select **“ObjectToMove (Inherited)”** from the hierarchy list, then change the Static Mesh to the asset you want to use. If necessary, change the transform scale of the object in the same panel.
+Drop into the location of the asset you’d like to move. In the Details panel, select **“ObjectToAffect (Inherited)”** from the hierarchy list, then change the Static Mesh to the asset you want to use. If necessary, change the transform scale of the object in the same panel.
 
-This also requires an [ObjectMoveSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectMoveSwitch_BP) to be set up in order to work.
+This also requires an [ObjectAffectorSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectAffectorSwitch_BP) to be set up in order to work.
 
 # Variables
 
-
-| Name               | Details                                                                                                                                                            |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ObjectFinalOffset  | The number of units that the object will move along each axis to its final destination from its initial location, set in the details panel of the editor per instance. If IsElevator is set to True, this value is ignored.                                                                           |
-| IsElevator        | Check if this object is an elevator that should only move up and down, reversing on each switch press.                                                        |
-| ElevatorOffset    | The Z-offset of the elevator from its initial position. If the elevator starts at the top of its movement range and goes down, this value should be negative. |
+| Name               | Details                                                                                                                                                                                                                                                                                                                                                    | Revision No. |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|                    | **SIMPLE MOVEMENT**                                                                                                                                                                                                                                                                                                                                            |              |
+| ObjectFinalOffset  | The number of units that the object will move along each axis to its final destination from its initial location, set in the details panel of the editor per instance. If IsElevator is set to True, this value is ignored.                                                                                                                                |              |
+|                    | **ACTIVATORS**                                                                                                                                                                                                                                                                                                                                                 |              |
+| IsInteractable     | If checked, this mesh's effects can be triggered by interacting with it directly.                                                                                                                                                                                                                                                                          | 71           |
+| TakesActivation    | If checked, this mesh is locked until an activation switch is triggered. This is different from normal switch interaction in that "activator" switches only unlock effects, they don't directly cause them in any way. It is primarily intended to allow objects that use direct interaction (see IsInteractable) to still require an activator elsewhere. | 71           |
+| TakesMultiSwitches | If checked, this mesh requires a set number of corresponding switches to be activated before it will execute its actions. The number must be set in MultiSwitchCount.                                                                                                                                                                                      | 71           |
+| MultiSwitchCount   | The number of ObjectMoveSwitch_BP instances in the level that must be activated in order for it to execute. Obviously, that many must be set up accordingly to trigger this Blueprint.                                                                                                                                                                     | 71           |
+|                    | **ELEVATOR**                                                                                                                                                                                                                                                                                                                                                   |              |
+| IsElevator         | Check if this object is an elevator that should only move up and down, reversing on each switch press.                                                                                                                                                                                                                                                     |              |
+| ElevatorOffset     | The Z-offset of the elevator from its initial position. If the elevator starts at the top of its movement range and goes down, this value should be negative.                                                                                                                                                                                              |              |
+|                    | **BEACON EFFECTS**                                                                                                                                                                                                                                                                                                                                             |              |
+| AffectsCollision   | If checked, turning on this beacon will switch the mesh's collision off.                                                                                                                                                                                                                                                                                   | 71           |
+| AffectsVisibility  | If checked, turning on this beacon will switch the mesh's visibility off.                                                                                                                                                                                                                                                                                  | 71           |
 
 # In the Future
 
-I'm currently working on implementing the ability to set multiple switches for the same object, all of which must be pressed to activate the object's movement (for use with multi-switch doors, etc.)
-
-I also plan to add the ability to have the object move on direct interaction, switched on and off in the editor with a boolean value. This can be used for elevators or other objects we wish to move without needing to press a dedicated switch.
-
-Additionally, if requested it would be fairly simple to add in the ability to rotate or scale the object as well upon interaction. If this is something that would be useful, let the Tech team know.
+If requested it would be fairly simple to add in the ability to rotate or scale the object as well upon interaction. If this is something that would be useful, let the Tech team know.
