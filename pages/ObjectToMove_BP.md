@@ -1,16 +1,16 @@
 # Summary
-*Note: ObjectToMove_BP is going to be renamed ObjectToAffect_BP, but due to a rather untimely guard kicking us out of the building I got interrupted halfway through and didn't get that finished. Anywhere this references that name, just know that it's talking about the same thing.*
+*Note: ObjectToMove_BP is going to be renamed ObjectToAffect_BP, but due to a rather untimely guard kicking us out of the studio I got interrupted halfway through and didn't get that finished. Anywhere this references that name, just know that it's talking about the same thing.*
 
 
-ObjectToAffect_BP is a flexible Blueprint that has a wide variety of uses. As the name implies, this Blueprint allows an object to be affected in a variety of ways in-game, either by interacting with another object or directly with it.
+ObjectToMove_BP is a flexible Blueprint that has a wide variety of uses. As the name implies, this Blueprint allows an object to be affected in a variety of ways in-game, either by interacting with another object or directly with it.
 
 Examples of things that this Blueprint can be used for are raising platforms, opening doors, elevators, beacon-affected walls and doors, etc.
 
 # Usage
 
-Drop into the location of the asset you’d like to move. In the Details panel, select **“ObjectToAffect (Inherited)”** from the hierarchy list, then change the Static Mesh to the asset you want to use. If necessary, change the transform scale of the object in the same panel.
+Drop into the location of the asset you’d like to move. In the Details panel, select **“ObjectToMove (Inherited)”** from the hierarchy list, then change the Static Mesh to the asset you want to use. If necessary, change the transform scale of the object in the same panel.
 
-This also requires an [ObjectAffectorSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectAffectorSwitch_BP) to be set up in order to work.
+This also requires an [ObjectMoveSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectMoveSwitch_BP) to be set up in order to work.
 
 # Variables
 
