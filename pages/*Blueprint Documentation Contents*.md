@@ -49,6 +49,7 @@ The class hierarchy and code is all carefully built to be as efficient and strea
 [Ladder_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Ladder_BP)  
 [ObjectMoveSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectMoveSwitch_BP)  
 [ObjectToMove_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectToMove_BP)  
-[PatrolGuard_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/PatrolGuard_BP)  
+[PatrolGuard_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/PatrolGuard_BP) 
+[Pickup_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Pickup_BP)
 [Shrine_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Shrine_BP)  
 [StaticGuard_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/StaticGuard_BP)
