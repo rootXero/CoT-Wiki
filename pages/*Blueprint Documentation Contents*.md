@@ -40,16 +40,6 @@ The class hierarchy and code is all carefully built to be as efficient and strea
 
 # Finished and Documented Blueprints:
 
-**Note:** The Blueprints listed below are the *only* ones finished and approved for use in CoT. All others are depricated or unfinished, and should not be added into levels moving forward. Blueprints must be approved by the Tech lead before being added to the wiki or game.
+**Note:** The Blueprints on the wiki are the *only* ones finished and approved for use in CoT. All others are depricated, abstract, or unfinished, and should not be added into levels moving forward. Blueprints must be approved by the Tech lead before being added to the wiki or game.
 
->[DialoguePrintBox_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/DialoguePrintBox_BP)  
-[EndLevelTrigger_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/EndLevelTrigger_BP)  
-[HealthTrap_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/HealthTrap_BP)  
-[Killbox_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Killbox_BP)  
-[Ladder_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Ladder_BP)  
-[ObjectMoveSwitch_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectMoveSwitch_BP)  
-[ObjectToMove_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/ObjectToMove_BP)  
-[PatrolGuard_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/PatrolGuard_BP) 
-[Pickup_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Pickup_BP)
-[Shrine_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/Shrine_BP)  
-[StaticGuard_BP](https://app.deveo.com/collegeforcreativestudies/projects/city_of_thebes/wiki/StaticGuard_BP)
+There was previously a list here of all Blueprints, but with the slow but sure expansion of our game and its scope, it became difficult to maintain consistently. All Blueprints on the wiki (the ones found in the dropdown menu) can be considered ready to use unless there is a note in the summary indicating otherwise. If you have questions or concerns about a Blueprint, please contact the Tech Lead.
