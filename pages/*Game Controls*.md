@@ -1,21 +1,26 @@
-# Keyboard
+# Game Controls
 
-| Action        | Key            |
-|---------------|----------------|
-| **Move**      | WASD           |
-| **Look**      | Mouse          |
-| **Walk**      | Shift (held)   |
-| **Dash**      | Ctrl (pressed) |
-| **Jump**      | Space          |
-| **Interact**  | F              |
+| Action         | Keyboard Control | Gamepad Control                                    | Event Name             |
+|----------------|------------------|----------------------------------------------------|------------------------|
+| **Move**       | WASD             | Left Stick                                         | MoveForward, MoveRight |
+| **Look**       | Mouse            | Right Stick                                        | Turn, LookUp           |
+| **Walk:**      | Shift (held)     | Right Trigger (Temporary)                          | Walk                   |
+| **Dash:**      | Ctrl (pressed)   | TBD                                                | Dash                   |
+| **Jump:**      | Space            | Right gamepad face button (Xbox: A, DualShock: X)  | Jump                   |
+| **Interact:**  | F                | Bottom gamepad face button (Xbox: B, Dualshock: O) | Interact               |
+| **Oil Trap**   | 1                | D-Pad Up                                           | Quickslot1             |
+| **Smoke Bomb** | 2                | D-Pad Right                                        | Quickslot2             |
+| **Caltrops**   | 3                | D-Pad Down                                         | Quickslot3             |
+| **Mine**       | 4                | D-Pad Left                                         | Quickslot4             |
 
-# Controller
+# Debug Shortcuts
 
-| Action        | Control                                                                                               |
-|---------------|-------------------------------------------------------------------------------------------------------|
-| **Move**      | Left Stick                                                                                            |
-| **Look**      | Right Stick                                                                                           |
-| **Walk:**     | Right Trigger (temporary—will later be mapped to left stick as well, with gradation from walk to run) |
-| **Dash:**     | TBD                                                                                                   |
-| **Jump:**     | Right gamepad face button (Xbox: B, DualShock: O)                                                     |
-| **Interact:** | Bottom gamepad face button (Xbox: A, DualShock: X)                                                    |
+| Key   | Action                              |
+|-------|-------------------------------------|
+| Num 0 | Print all debug keys and descriptions to screen |
+| Num 1 | Unassigned                          |
+| Num 2 | Unassigned                          |
+| Num 3 | Unassigned                          |
+| Num 4 | Unassigned                          |
+| Num 5 | Unassigned                          |
+| Num 6 | Unassigned                          |
