@@ -1,4 +1,4 @@
-***Policy note:*** *Approaching the Tech Lead for assistance on a Blueprint that does not follow this style guide will result in a reprimand and a refusal of aid until the stylistic expectations have been met.*
+***Policy note:*** *Approaching the Tech Lead for assistance on a Blueprint that does not follow this style guide will result in a reprimand and a refusal of aid until the stye conventions have been met.*
 
 # Naming Conventions
 
