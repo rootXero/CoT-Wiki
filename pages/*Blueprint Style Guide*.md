@@ -1,3 +1,5 @@
+***Policy note:*** *Approaching the Tech Lead for assistance on a Blueprint that does not follow this style guide will result in a reprimand and a refusal of aid until the stylistic expectations have been met.*
+
 # Naming Conventions
 
 Classes, variables, functions, and macros should all be named in PascalCase.
@@ -6,7 +8,7 @@ Folders should be named in ALLCAPS with underscores to separate suffixes.
 
 ## Choosing a Name
 
-Naming is important to make the code universally readable among the development team. *Nothing* should be left as a default, and names should be concise but meaningful. This includes everything from classes, to timelines, to functions, to variables. If you create it, name it. 
+Naming is important to make the code universally readable among the development team. *Nothing* should be left as a default, and names should be concise but meaningful. This includes everything from classes, to timelines, to functions, to variables. If you create it, name it.
 
 In general, avoid abbreviations except in circumstances where names are getting out of control, and don't use more than one in a name. Multiple can do more harm than good and make names difficult to decipher.
 
@@ -63,6 +65,19 @@ All graphs in a Blueprint should be nicely arranged and easy to follow. This mea
 If you're reusing a block of code in the same class, it should be made into a [function](https://docs.unrealengine.com/latest/INT/Engine/Blueprints/UserGuide/Functions/) or [macro](https://docs.unrealengine.com/latest/INT/Engine/Blueprints/UserGuide/Macros/) as [applicable](https://forums.unrealengine.com/showthread.php?82023-Function-vs-Macro-What-is-better) for clarity and concision.
 
 Public variables intended for use by level designers should be grouped into a category titled "SET BEFORE PLAY", in the most logical order, unless the class is complex enough to require more organizatioin for ease of use. Categories intended for level designer use should be written in ALLCAPS to differentiate them from engine defaults and minimize risk of confusion. In instances where you wish for the level designer to choose between multiple options, an [enumerator](https://wiki.unrealengine.com/Enums_For_Both_C%2B%2B_and_BP) can be used to create dropdown options.
+
+# Blueprint Turn-In Procedure
+
+When a section of code is finished and ready to be introduced to the game:
+
+1. Check your Blueprints  to ensure they follow this guide *in full*.
+1. Commit your files to the SVN repository, with a brief but descriptive log note of the changes made to the project.
+1. Move the Trello card(s) for the finished code into the "Waiting for Approval" column. In the card comments:
+ * List any and all modified Blueprints modified in relation to the code/bugfix
+ * Make note of any comments/concerns/issues you have on your work
+1. Add cards to the "Known Issues" column for any bugs you are aware of in your implementation
+
+When the Tech Lead has looked over the code, it will either be moved to the "Done" column of the board if approved, or back to the "Doing" column with comments if unapproved for any reason. In the event of severe issues or game-breaking code, the Lead will roll back the repository to the previous revision of any affected code to avoid bottle-necking the rest of the development team.
 
 # Class Hierarchy
 
