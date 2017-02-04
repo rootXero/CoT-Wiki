@@ -17,6 +17,7 @@ Accepted Abbreviations:
 | Char | Character |
 | Curr | Current   |
 | Mod  | Modifier  |
+| Pos  | Position  |
 | Var  | Variable  |
 
 ## Classes
@@ -24,17 +25,19 @@ Accepted Abbreviations:
 | Type                    | Naming Scheme                |
 |-------------------------|------------------------------|
 | Blueprint Class         | [Name]_BP                    |
+| AI Controller           | [CharName]_AICON_BP          |
 | Animation Blueprint     | [CharName]Anim_BP            |
 | Animation Blend Space   | [CharName][AnimationName]_BS |
-| Interface               | [Name]_INT                   |
-| Enumeration             | [Name]_ENUM                  |
-| AI Controller           | [CharName]_AICON_BP          |
-| Blackboard              | [CharName]_BB                |
 | Behavior Tree           | [CharName]_BT                |
-| Behavior Tree Service   | [Name]_BT_SERV               |
 | Behavior Tree Decorator | [Name]_BT_DEC                |
+| Behavior Tree Service   | [Name]_BT_SERV               |
 | Behavior Tree Task      | [Name]_BT_TASK               |
+| Blackboard              | [CharName]_BB                |
 | Curve                   | [Name]_CURVE                 |
+| Enumeration             | [Name]_ENUM                  |
+| Interface               | [Name]_INT                   |
+
+*Note: Child Blueprint classes default to [Name]_Child. Please do not leave this naming, as it doesn't fit into our conventions and is generally confusing in relation to our hierarchical structure. Instead, rename the Blueprint to a short, descriptive name as usual and use the _BP suffix as usual.*
 
 # In-Engine Documentation
 
@@ -63,4 +66,7 @@ Public variables intended for use by level designers should be grouped into a ca
 
 # Class Hierarchy
 
-Hold up, y'all. I'm gonna need a whiteboard and at least four different Expos for this.
+For efficiency, speed, and the sake of best practice, Blueprints that share a significant portion of code with another should be built into a hierarchic tree. Generally this means sharing a parent class, or one class being the parent of the other. Given that the specifics of this are a bit beyond the scope of this wiki and instead fall into the realm of required knowledge for this sort of project, I expect the Tech Team to research the basics of class structure in an object-oriented language on their own and to come to the Lead with any specific questions they are unable to resolve online.
+
+That said, the current hierarchy for characters in CoT can be found here for ease of understanding:
+https://docs.google.com/document/d/1I9WE34ep-951mHJgA9kUhmTbGwT2dUposQw2SAEhRBg/edit?usp=sharing
