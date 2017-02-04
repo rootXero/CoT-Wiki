@@ -75,6 +75,7 @@ When a section of code is finished and ready to be introduced to the game:
 1. Move the Trello card(s) for the finished code into the "Waiting for Approval" column. In the card comments:
  * List any and all modified Blueprints modified in relation to the code/bugfix
  * Make note of any comments/concerns/issues you have on your work
+ * Make sure that you've assigned yourself as a member to the card 
 1. Add cards to the "Known Issues" column for any bugs you are aware of in your implementation
 
 When the Tech Lead has looked over the code, it will either be moved to the "Done" column of the board if approved, or back to the "Doing" column with comments if unapproved for any reason. In the event of severe issues or game-breaking code, the Lead will roll back the repository to the previous revision of any affected code to avoid bottle-necking the rest of the development team.
