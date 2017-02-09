@@ -38,6 +38,7 @@ Accepted Abbreviations:
 | Curve                   | [Name]_CURVE                 |
 | Enumeration             | [Name]_ENUM                  |
 | Interface               | [Name]_INT                   |
+| UI Widget               | [Name]_WGT                   |
 
 *Note: Child Blueprint classes default to [Name]_Child. Please do not leave this naming, as it doesn't fit into our conventions and is generally confusing in relation to our hierarchical structure. Instead, rename the Blueprint to a short, descriptive name as usual and use the _BP suffix as usual.*
 
