@@ -21,8 +21,7 @@ Natalie: Final Room
 
 # File Structure
 
-Treasure
-
+(Image Reference TBA)
 # Rooms
 
 ## Level One Spawn
