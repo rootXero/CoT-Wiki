@@ -20,8 +20,7 @@ Natalie: Final Room
 
 
 # File Structure
-
-(Image Reference TBA)
+[File_Structure.jpg](wiki-attachment:File_Structure.jpg)
 # Rooms
 
 ## Level One Spawn
