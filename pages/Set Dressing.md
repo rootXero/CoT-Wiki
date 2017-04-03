@@ -1,4 +1,6 @@
 # Set Dressing
+Please make your own level and keep everything in your own level. Label it lvl1_set_YourName
+
 Here is where you're going to find details on Set dressing including the file structure, room assignments and what to place in each room. PLEASE MAKE SURE YOU ARE FOLLOWING THE ROOM CRITERIA! Keep in mind, when you have Blue Printed Treasure you DO NOT NEED TO ADD ANY VALUES YET. This will be discussed further.
 1. Ctrl+M will move selected meshes into highlighted levels.
 1. Alt+Shift will duplicate and move the camera with asset
