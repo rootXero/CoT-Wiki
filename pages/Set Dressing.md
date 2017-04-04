@@ -16,7 +16,9 @@ Rob: Entry Courtyard
 
 Alexis: Ra-Room
 
-Erika: Shrine Room and Floor Drop Hall (These are both minimal)
+Erika: Shrine Room 
+
+Austin: Floor Drop Hall (minimal)
 
 Natalie: Final Room
 
