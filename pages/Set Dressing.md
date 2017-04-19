@@ -13,15 +13,17 @@ If you have any questions, contact Jess or Ash
 
 Cole: Level One Spawn, Maze,
 
-Alexis: Ra-Room, Entry Courtyard, Cavern
+Alexis: Ra-Room, Entry Courtyard,
 
 Erika: Shrine Room, Tunnels 
 
 Austin: Floor Drop Hall (minimal), Cavern
 
-Natalie: Final Room, Guard Room
+Natalie: Final Room, Final Ascent
 
-Ben: Scorpion Entrance, Final Ascent and Crystal Room
+Ben: Scorpion Entrance, Crystal Room
+
+Rob: Guard Room
 
 
 # File Structure
