@@ -5,22 +5,23 @@ Here is where you're going to find details on Set dressing including the file st
 1. Ctrl+M will move selected meshes into highlighted levels.
 1. Alt+Shift will duplicate and move the camera with asset
 1. FOLLOW THE FOLDER STRUCTURE
+1. Keep an eye on the treasure chests used, don't put something that originally belonged in level one in the cave areas.
 
 If you have any questions, contact Jess or Ash
 
 ## Room Assignments
 
-Cole: Level One Spawn
+Cole: Level One Spawn, Maze,
 
-Rob: Entry Courtyard
+Alexis: Ra-Room, Entry Courtyard, Cavern
 
-Alexis: Ra-Room
+Erika: Shrine Room, Tunnels 
 
-Erika: Shrine Room 
+Austin: Floor Drop Hall (minimal), Cavern
 
-Austin: Floor Drop Hall (minimal)
+Natalie: Final Room, Guard Room
 
-Natalie: Final Room
+Ben: Scorpion Entrance, Final Ascent and Crystal Room
 
 
 # File Structure
@@ -63,4 +64,45 @@ This room should look Museum AF.
 
 SHOULD HAVE: Lots of gold things, vases, etc. Anything that's not construction equipment or tools.
 
-AVOID: DO NOT PUT CONSTRUCTION EQUIPMENT IN HERE. no pick up scrap
+AVOID: DO NOT PUT CONSTRUCTION EQUIPMENT IN HERE. no pickup scrap
+
+## Scorpion Entrance
+Being handled by Ben.
+
+## Tunnels
+
+Look at caves for reference. 
+
+SHOULD HAVE: Rock features, rock clutter, scrap, 
+
+AVOID: Construction equipment, 
+
+## Cavern
+
+Look at cave reference and abandoned places for inspiration. clutter, old looking
+
+SHOULD HAVE: Rock features, rubble, broken vases, wood boards, gold treasure, scrap, glowing assets
+
+AVOID: clean assets
+
+## Maze
+
+Paint Landscape, use cracked tiles for dead ends (KEEP FLAT)
+
+SHOULD HAVE: Vases, rubble, pillars on corners, glowing stuff, wooden boards, stalactites, stalagmites, rock structures
+
+AVOID: Construction equipment, clean assets
+
+## Guard Room
+
+Feel free to add a landscape with coarse sand. It should look ancient here
+
+SHOULD HAVE: Guard Statues, lvl 3 architecture, treasure for lvl 3, gold treasure, towers, rubble, vases, wooden boards
+
+AVOID: cleaner looking assets, too much glowing stuff, construction equpiment
+
+## Final Ascent and Crystal Room
+
+SHOULD HAVE: Architecture, rock structures, glowing stuff
+
+AVOID: too much rubble, construction equipment
