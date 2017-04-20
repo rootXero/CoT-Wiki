@@ -81,9 +81,9 @@ AVOID: Construction equipment,
 
 ## Cavern
 
-Look at cave reference and abandoned places for inspiration. clutter, old looking
+Look at cave reference and abandoned places for inspiration. clutter, old looking. Crumbling architecture, add different paths on the walls and play with routes through cavern
 
-SHOULD HAVE: Rock features, rubble, broken vases, wood boards, gold treasure, scrap, glowing assets, wall plants
+SHOULD HAVE: Rock features, rubble, broken vases, wood boards, gold treasure, scrap, glowing assets, wall plants, scaffolding, stairs, old architecture.
 
 AVOID: clean assets
 
