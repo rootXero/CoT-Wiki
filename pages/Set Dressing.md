@@ -75,7 +75,7 @@ Being handled by Ben.
 
 Look at caves for reference. 
 
-SHOULD HAVE: Rock features, rock clutter, scrap, 
+SHOULD HAVE: Rock features, rock clutter, scrap, wall plants
 
 AVOID: Construction equipment, 
 
@@ -83,7 +83,7 @@ AVOID: Construction equipment,
 
 Look at cave reference and abandoned places for inspiration. clutter, old looking
 
-SHOULD HAVE: Rock features, rubble, broken vases, wood boards, gold treasure, scrap, glowing assets
+SHOULD HAVE: Rock features, rubble, broken vases, wood boards, gold treasure, scrap, glowing assets, wall plants
 
 AVOID: clean assets
 
@@ -91,7 +91,7 @@ AVOID: clean assets
 
 Paint Landscape, use cracked tiles for dead ends (KEEP FLAT)
 
-SHOULD HAVE: Vases, rubble, pillars on corners, glowing stuff, wooden boards, stalactites, stalagmites, rock structures
+SHOULD HAVE: Vases, rubble, pillars on corners, glowing stuff, wooden boards, stalactites, stalagmites, rock structures, wall plants
 
 AVOID: Construction equipment, clean assets
 
