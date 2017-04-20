@@ -89,7 +89,7 @@ AVOID: clean assets
 
 ## Maze
 
-Paint Landscape, use cracked tiles for dead ends (KEEP FLAT)
+Paint Landscape, use cracked tiles for dead ends (KEEP FLAT). Replace clean walls with broken walls as need be. Keep a sense of forward movement
 
 SHOULD HAVE: Vases, rubble, pillars on corners, glowing stuff, wooden boards, stalactites, stalagmites, rock structures, wall plants
 
