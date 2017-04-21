@@ -28,6 +28,19 @@ Rob: Guard Room
 
 # File Structure
 [File_Structure.jpg](wiki-attachment:File_Structure.jpg)
+
+# Treasure and Scrap Allotment
+
+Please populate treasure liberally, but symmetrically. This means that you should feel free to give the player LOADS of treasure--big numbers feel good!--but make sure that in every given possible route through an area (on every set of scaffolding, in every disparate tunnel, etc.) there is a roughly equal amount of treasure to be nabbed, for fairness.
+
+Individual, nonunique items should have between 50-199 treasure points attached to them. Individual, UNIQUE items, such as the assets Ben made for L3 initially, can be left up to set dresser jurisdiction, ranging from 100-1000 (particularly cool things get more, i.e. things that there are only one of in the level).
+
+Treasure chests: The L1 simple chest should have 200-499 points attached. The L1 fancy chest should have 500-800 points attached. The L3 (now Part 2) simple chest should have 400-699 points attached, and the L3/Part 2 fancy chest should have 700-1000 points attached.
+
+DON'T be afraid to give the player more treasure than you think is necessary. Big Numbers Feel Good.
+
+If you have ANY questions please ask Jess on facebook (Jess South) or text her at 812-550-0810 for fastest response time.
+
 # Rooms
 
 ## Level One Spawn
