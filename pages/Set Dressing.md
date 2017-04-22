@@ -9,8 +9,11 @@ Here is where you're going to find details on Set dressing including the file st
 
 If you have any questions, contact Jess or Ash
 
-# Treasure and Scrap
-## Placement
+# Treasure and Scrap Piles
+1. TREASURE has gold particles off of them
+1. SCRAP has purple particles off of them
+
+## Placement (Piles)
 
 There is a line of treasure at spawn in their respective folders. Alt + drag these (as you would duplicate) into your room and then into your level and dress from there. 
 
@@ -18,36 +21,26 @@ There is a line of treasure at spawn in their respective folders. Alt + drag the
 1. DO NOT remove these from their folder.
 1. DO NOT move the original groups.
 
-## Set Before Play
+## Placement (Individual)
+Follow Pickup_BP directions in wiki.
 
-Make sure you fill in the value for Treasure or Scrap, these should be the ONLY adjustments you have to make.
+## Set Before Play 
 
-1. TREASURE has gold particles off of them
-1. SCRAP has purple particles off of them
+Make sure you fill in the value for Treasure or Scrap, these should be the ONLY adjustments you have to make. See the Pick Up BP Wiki SET BEFORE PLAY
 
-## Treasure Values
-Adjust these values depending on how difficult the treasure is to get or its location.
 
-Part One
-1. Small piles: 50-75
-1. Medium piles: 75-100
-1. Large piles: 100-199
-1. Low Chests: 200-499
-1. High Chests: 500-800
+# Treasure and Scrap Allotment
 
-Part Two
-1. Small piles: 75-100
-1. Medium piles: 100-150
-1. Large Piles: 150-200
-1. Low Chests: 300-599
-1. High Chests: 600-899
+Please populate treasure liberally, but symmetrically. This means that you should feel free to give the player LOADS of treasure--big numbers feel good!--but make sure that in every given possible route through an area (on every set of scaffolding, in every disparate tunnel, etc.) there is a roughly equal amount of treasure to be nabbed, for fairness.
 
-## Scrap
-Adjust these values depending on how difficult the scrap is to get or its location. There is no value bump in the second half of the level.
-1. Small pile: 25-50
-1. Small Crate:  50-100
-1. Multiple Crates: 100-200
-1. Palette: 150-355
+Individual, nonunique items should have between 50-199 treasure points attached to them. Individual, UNIQUE items, such as the assets Ben made for L3 initially, can be left up to set dresser jurisdiction, ranging from 100-1000 (particularly cool things get more, i.e. things that there are only one of in the level).
+
+Treasure chests: The L1 simple chest should have 200-499 points attached. The L1 fancy chest should have 500-800 points attached. The L3 (now Part 2) simple chest should have 400-699 points attached, and the L3/Part 2 fancy chest should have 700-1000 points attached.
+
+DON'T be afraid to give the player more treasure than you think is necessary. Big Numbers Feel Good.
+
+If you have ANY questions please ask Jess on facebook (Jess South) or text her at 812-550-0810 for fastest response time.
+
 # Room Assignments
 
 Cole: Level One Spawn, Maze,
@@ -68,17 +61,6 @@ Rob: Guard Room
 ## File Structure
 [File_Structure.jpg](wiki-attachment:File_Structure.jpg)
 
-# Treasure and Scrap Allotment
-
-Please populate treasure liberally, but symmetrically. This means that you should feel free to give the player LOADS of treasure--big numbers feel good!--but make sure that in every given possible route through an area (on every set of scaffolding, in every disparate tunnel, etc.) there is a roughly equal amount of treasure to be nabbed, for fairness.
-
-Individual, nonunique items should have between 50-199 treasure points attached to them. Individual, UNIQUE items, such as the assets Ben made for L3 initially, can be left up to set dresser jurisdiction, ranging from 100-1000 (particularly cool things get more, i.e. things that there are only one of in the level).
-
-Treasure chests: The L1 simple chest should have 200-499 points attached. The L1 fancy chest should have 500-800 points attached. The L3 (now Part 2) simple chest should have 400-699 points attached, and the L3/Part 2 fancy chest should have 700-1000 points attached.
-
-DON'T be afraid to give the player more treasure than you think is necessary. Big Numbers Feel Good.
-
-If you have ANY questions please ask Jess on facebook (Jess South) or text her at 812-550-0810 for fastest response time.
 
 # Rooms
 
