@@ -9,7 +9,46 @@ Here is where you're going to find details on Set dressing including the file st
 
 If you have any questions, contact Jess or Ash
 
-## Room Assignments
+# Treasure and Scrap
+## Placement
+
+There is a line of treasure at spawn in their respective folders. Alt + drag these (as you would duplicate) into your room and then into your level and dress from there. 
+
+1. DO make sure that these are moved into your level.
+1. DO NOT remove these from their folder.
+1. DO NOT move the original groups.
+
+## Set Before Play
+
+Make sure you fill in the value for Treasure or Scrap, these should be the ONLY adjustments you have to make.
+
+1. TREASURE has gold particles off of them
+1. SCRAP has purple particles off of them
+
+## Treasure Values
+Adjust these values depending on how difficult the treasure is to get or its location.
+
+Part One
+1. Small piles: 50-75
+1. Medium piles: 75-100
+1. Large piles: 100-199
+1. Low Chests: 200-499
+1. High Chests: 500-800
+
+Part Two
+1. Small piles: 75-100
+1. Medium piles: 100-150
+1. Large Piles: 150-200
+1. Low Chests: 300-599
+1. High Chests: 600-899
+
+## Scrap
+Adjust these values depending on how difficult the scrap is to get or its location. There is no value bump in the second half of the level.
+1. Small pile: 25-50
+1. Small Crate:  50-100
+1. Multiple Crates: 100-200
+1. Palette: 150-355
+# Room Assignments
 
 Cole: Level One Spawn, Maze,
 
@@ -26,7 +65,7 @@ Ben: Scorpion Entrance, Crystal Room
 Rob: Guard Room
 
 
-# File Structure
+## File Structure
 [File_Structure.jpg](wiki-attachment:File_Structure.jpg)
 
 # Treasure and Scrap Allotment
