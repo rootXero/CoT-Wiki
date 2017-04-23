@@ -41,6 +41,14 @@ DON'T be afraid to give the player more treasure than you think is necessary. Bi
 
 If you have ANY questions please ask Jess on facebook (Jess South) or text her at 812-550-0810 for fastest response time.
 
+1. Individual, NONUNIQUE: 50-199
+1. Individual, UNIQUE: 100-1000
+1. P1 Chest Low: 200-499
+1. P1 Chest High: 500-800
+1. P2 Chest Low: 400-699
+1. P2 Chest High: 700-1000
+
+
 # Room Assignments
 
 Cole: Level One Spawn, Maze,
