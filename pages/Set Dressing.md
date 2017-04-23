@@ -41,12 +41,24 @@ DON'T be afraid to give the player more treasure than you think is necessary. Bi
 
 If you have ANY questions please ask Jess on facebook (Jess South) or text her at 812-550-0810 for fastest response time.
 
+## Treasure
+
 1. Individual, NONUNIQUE: 50-199
 1. Individual, UNIQUE: 100-1000
 1. P1 Chest Low: 200-499
 1. P1 Chest High: 500-800
 1. P2 Chest Low: 400-699
 1. P2 Chest High: 700-1000
+
+## Scrap
+
+All scrap boxes should be between 25-35 scrap.
+
+"Scrap boxes" must consist of either:
+
+1. A pile of construction assets, BP'd together;
+2. A closed crate;
+3. An open crate with clutter assets or construction assets inside, BD'd together.
 
 
 # Room Assignments
