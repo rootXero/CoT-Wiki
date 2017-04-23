@@ -103,7 +103,7 @@ AVOID: DON'T PUT ANYTHING ON THE DROPPING FLOOR (duh) no construction equipment
 ## Stair Hallway
 To be decided
 
-## Final Room
+## Treasure Room
 This room should look Museum AF.
 
 SHOULD HAVE: Lots of gold things, vases, etc. Anything that's not construction equipment or tools.
