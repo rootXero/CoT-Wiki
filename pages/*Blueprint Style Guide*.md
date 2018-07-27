@@ -67,7 +67,7 @@ If you're reusing a block of code in the same class, it should be made into a [f
 
 Public variables intended for use by level designers should be grouped into a category titled "SET BEFORE PLAY", in the most logical order, unless the class is complex enough to require more organizatioin for ease of use. Categories intended for level designer use should be written in ALLCAPS to differentiate them from engine defaults and minimize risk of confusion. In instances where you wish for the level designer to choose between multiple options, an [enumerator](https://wiki.unrealengine.com/Enums_For_Both_C%2B%2B_and_BP) can be used to create dropdown options.
 
-# Blueprint Turn-In Procedure
+# Blueprint Submission Procedure
 
 When a section of code is finished and ready to be introduced to the game:
 
