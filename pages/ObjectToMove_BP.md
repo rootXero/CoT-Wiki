@@ -1,5 +1,5 @@
 # Summary
-*Note: ObjectToMove_BP is going to be renamed ObjectToAffect_BP, but due to a rather untimely guard kicking us out of the studio I got interrupted halfway through and didn't get that finished. Anywhere this references that name, just know that it's talking about the same thing.*
+*Note: ObjectToMove_BP is going to be renamed ObjectToAffect_BP, but due to a rather untimely guard kicking us out of the studio for the night, I got interrupted halfway through and didn't get that finished. Anywhere this references that name, just know that it's talking about the same thing.*
 
 
 ObjectToMove_BP is a flexible Blueprint that has a wide variety of uses. As the name implies, this Blueprint allows an object to be affected in a variety of ways in-game, either by interacting with another object or directly with it.
