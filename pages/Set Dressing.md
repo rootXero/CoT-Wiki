@@ -39,7 +39,7 @@ Treasure chests: The L1 simple chest should have 200-499 points attached. The L1
 
 DON'T be afraid to give the player more treasure than you think is necessary. Big Numbers Feel Good.
 
-If you have ANY questions please ask Jess on facebook (Jess South) or text her at 812-550-0810 for fastest response time.
+If you have ANY questions please ask Jess for fastest response time.
 
 ## Treasure
 
